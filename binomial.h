@@ -16,7 +16,7 @@ class Binomial{
   }
   Binomial(float thenuma, int powa, float thenumb):Binomial(CoefficientA= thenuma, PowerA= powa, CoefficientB= thenumb, PowerB=1){
   }
-  
+
   Binomial(float thenuma, int powa, float thenumb, int powb){
     CoefficientA=thenuma;
     CoefficientB=thenumb;
